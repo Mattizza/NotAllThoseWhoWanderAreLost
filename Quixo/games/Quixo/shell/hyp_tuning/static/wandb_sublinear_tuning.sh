@@ -1,1 +1,1 @@
-python /Users/mattia/Documents/University/Q-uixo/main.py -s pruned_static -w True -wp /Users/mattia/Documents/University/Q-uixo/games/Quixo/wandb/setup/wandb_setup_config.yaml -hg /Users/mattia/Documents/University/Q-uixo/games/Quixo/wandb/hyperparameters/static/hyp_tuning_mcts_sublinear.yaml
+python main.py -s pruned_static -w True -wp games/Quixo/wandb/setup/wandb_setup_config.yaml -hg games/Quixo/wandb/hyperparameters/static/hyp_tuning_mcts_sublinear.yaml

@@ -1,1 +1,1 @@
-python /Users/mattia/Documents/University/Q-uixo/main.py -s standard
+python main.py -s standard
