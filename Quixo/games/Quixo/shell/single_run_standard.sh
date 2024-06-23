@@ -1,0 +1,1 @@
+python /Users/mattia/Documents/University/Q-uixo/main.py -s standard

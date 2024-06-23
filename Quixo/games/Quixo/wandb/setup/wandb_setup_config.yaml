@@ -1,0 +1,6 @@
+---
+  project : 'Quixo_Benchmark_Neural_00'
+  entity : 'mattizza'
+  tags : ['Quixo', 'Benchmark', 'Neural']
+  notes : 'Benchmark Quixo, Random first (n_games = 50). n_wins represents the number of wins of Random.'
+  name : 'Quixo_Benchmark_Neural_00__run'

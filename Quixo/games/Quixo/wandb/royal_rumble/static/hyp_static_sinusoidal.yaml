@@ -1,0 +1,27 @@
+---
+ MCTS :
+    c : 
+        - 1.5
+    num_searches :
+        - 50 
+        - 100
+        - 200
+        - 300
+        - 400
+        - 500
+ Pruner :
+    beta_param : 
+        - 15
+    temperature : 
+        - 0
+    starting_percentage : 
+        - 0.2
+ Growth_function :
+    "gfunction" : 
+        - "sinusoidal"
+    # - sublinear
+    # - linear
+    # - stairstep
+    # - sinusoidal
+    amplitude : 
+        - 6

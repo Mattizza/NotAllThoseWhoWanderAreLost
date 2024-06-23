@@ -1,0 +1,1 @@
+python /Users/mattia/Documents/University/Q-uixo/main.py -s neural -rr True -w True -wp /Users/mattia/Documents/University/Q-uixo/games/Quixo/wandb/setup/wandb_setup_config.yaml -hg /Users/mattia/Documents/University/Q-uixo/games/Quixo/wandb/benchmark/neural_benchmark.yaml -n 30

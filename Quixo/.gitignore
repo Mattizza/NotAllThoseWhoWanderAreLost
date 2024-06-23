@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.vscode/
+games/Quixo/notebooks/
+debug.py
+pilot.ipynb

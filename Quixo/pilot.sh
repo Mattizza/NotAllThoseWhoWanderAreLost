@@ -1,0 +1,1 @@
+python main.py -s neural -hp games/Quixo/config_files/neural/mcts_neural.yaml -n 10 -p 1

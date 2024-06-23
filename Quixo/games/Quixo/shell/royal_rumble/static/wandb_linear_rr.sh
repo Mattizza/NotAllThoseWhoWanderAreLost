@@ -1,0 +1,1 @@
+python /Users/mattia/Documents/University/Q-uixo/main.py -s pruned_static -rr True -w True -gs True -wp /Users/mattia/Documents/University/Q-uixo/games/Quixo/wandb/setup/wandb_setup_config.yaml -hg games/Quixo/wandb/royal_rumble/static/hyp_static_linear.yaml -n 30

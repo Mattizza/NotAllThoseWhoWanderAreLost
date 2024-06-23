@@ -1,0 +1,36 @@
+---
+  MCTS :
+    c :
+      - 1.5
+      - 2.0
+    num_searches :
+      - 300
+
+  Pruner :
+    beta_param : 
+      - 10
+      - 15
+      - 20
+    temperature :
+      - 0
+      - 1
+    starting_percentage : 
+      - 0.2
+      - 0.4
+  Growth_function : 
+    "gfunction" :
+      - "superlinear"
+    # - sublinear
+    # - linear
+    # - stairstep
+    # - sinusoidal
+    slope : 
+      - 0.1
+      - 0.2
+
+# slope_super_linear = [0.1, 0.2]
+# slope_sub_linear = [0.00000005, 0.0000005]
+# slope_linear = [0.5, 1]
+# slope_stair_step = [2, 3]
+# step_stair_step = [3, 6]
+# amplitude_sine = [2, 4]
