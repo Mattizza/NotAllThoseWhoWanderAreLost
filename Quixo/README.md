@@ -14,8 +14,10 @@ To make things easier, I have already defined some good configurations, which ca
 $ python main.py -s <STRATEGY> -hp games/Quixo/config_files/<AGENT>/mcts_<AGENT>.yaml -n 10 -p 1
 ```
 
-In particular, `<STRATEGY>` and `AGENT` must be coherent and belong to the following couplings (`STRATEGY - AGENT`):
--  `standard | standard`
--  `pruned_static | static`
--  `pruned_dynamic | dynamic`
--  `neural | neural`
+In particular, `<STRATEGY>` and `<AGENT>` must be coherent and belong to the following couplings (`STRATEGY - AGENT`):
+-  `standard - standard`
+-  `pruned_static - static`
+-  `pruned_dynamic - dynamic`
+-  `neural - neural`
+
+You can customize the configuration you want to use by specifing your own path. However, `<STRATEGY>` must be one of those specified above.
